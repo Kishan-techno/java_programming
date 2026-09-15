@@ -1,4 +1,4 @@
-package Array2;
+
 import java.util.Scanner;
 
 public class UserInput {
