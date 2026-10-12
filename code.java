@@ -4,8 +4,6 @@ public class code {
         int T = 3;
 
         int[] n = {2, 5, 10};
-        //initialization
-        
 
         for (int i = 0; i < T; i++) {
             int sum = n[i] * 15;
